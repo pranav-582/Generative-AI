@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-07-29 00:05:33",
+    "type": "summary",
+    "question": "Document Summary",
+    "answer": "Here's a summary of the provided text, focusing on key details:\n\n  Gabriel Garcia Marquez: The text introduces Gabriel Garcia Marquez (1927-2014) as a celebrated Latin American novelist, short-story writer, and journalist, considered a master of narrative. He won the Nobel Prize in Literature in 1982.\n\n  Key Works and Themes: Two of Marquez's most famous works are mentioned: One Hundred Years in Solitude (1967, translated 1970) and Love in the Time of Cholera (1985, translated 1988). His writing often explores themes of violence, solitude, and the human need for love.\n\n  Magical Realism: Marquez's work, as exemplified in the story excerpt, is described as a high point of Latin American magical realism, blending reality and fantasy in a rich and lucid style.\n\n  Story Excerpt: The excerpt recounts an event at the Havana Riviera Hotel where a massive wave engulfs cars and damages the hotel, illustrating a blend of the mundane and the extraordinary. The event causes panic and damage but is quickly resolved by Cuban volunteers and the fire department.",
+    "token_limit": 500
+  },
+  {
+    "timestamp": "2025-07-29 00:09:50",
+    "type": "question",
+    "question": "who is the author ?",
+    "answer": "The author is Gabriel Garcia Marquez.",
+    "token_limit": 500
+  }
+]
