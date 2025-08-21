@@ -26,14 +26,6 @@ This repository documents my hands-on exploration of cutting-edge Generative AI 
 - **`basic_graph.py`** - Fundamental graph-based chatbot implementation
 - **`customer_support_graph.py`** - Advanced multi-agent customer support system with department routing (billing, technical, shipping) and escalation handling
 
-### 🚀 Main Application
-- **`main.py`** - Sophisticated multi-agent PDF Q&A system featuring:
-  - RAG-based document processing
-  - Conversation memory and context awareness
-  - Optional web search integration
-  - Multi-agent workflow (Researcher → Analyst → Web Researcher → Writer)
-  - Real-time conversation history management
-
 ## ✨ Key Features Implemented
 
 ### 🔄 Chain Operations
