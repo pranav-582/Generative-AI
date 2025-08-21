@@ -10,7 +10,6 @@ load_dotenv()
 
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 
-
 # memory = ConversationBufferMemory(return_messages=True)
 # memory = ConversationBufferWindowMemory(k=3, return_messages=True)
 # memory = ConversationSummaryMemory(llm=llm, return_messages=True)
@@ -20,7 +19,6 @@ memory = CombinedMemory(
         ConversationSummaryMemory(llm=llm, return_messages=True)
     ]
 )
-
 
 # ConversationChain
 conversation = ConversationChain(
